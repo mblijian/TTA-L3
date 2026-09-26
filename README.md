@@ -1,2 +1,2 @@
 # TTA-L3
- This is for L3T2 students.
+ This is for Python Term 1 and 2 students.
